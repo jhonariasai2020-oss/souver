@@ -1,6 +1,6 @@
 # Calorica Souver
 
-App de salud y nutricion con planes de ejercicio por somatotipo, comidas recomendadas por pais y presupuesto, podometro nativo en segundo plano, contador de calorias y cronometro de rutinas con calculo de calorias en tiempo real. Diseño monocromatico estilo Apple Health. 100% offline.
+App de salud y nutricion con planes de ejercicio por somatotipo, comidas recomendadas por pais y presupuesto, podometro nativo, contador de calorias y cronometro de rutinas con calculo de calorias en tiempo real. Diseño monocromatico 100% offline.
 
 ---
 
@@ -178,7 +178,7 @@ calorica-souver/
 
 ## Licencia
 
-Proyecto de portafolio. (c) 2025 Calorica Souver.
+Proyecto de portafolio. (c) 2026 Calorica Souver.
 
 ---
 
